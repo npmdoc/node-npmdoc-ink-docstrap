@@ -1,9 +1,14 @@
-# api documentation for  [ink-docstrap (v1.3.0)](https://github.com/docstrap/docstrap#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-ink-docstrap.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ink-docstrap) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ink-docstrap.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ink-docstrap)
+# npmdoc-ink-docstrap
+
+#### api documentation for  [ink-docstrap (v1.3.0)](https://github.com/docstrap/docstrap#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-ink-docstrap.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ink-docstrap) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ink-docstrap.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ink-docstrap)
+
 #### [![NPM](https://nodei.co/npm/ink-docstrap.png?downloads=true)](https://nodei.co/npm/ink-docstrap/)
 
-[![NPM](https://nodei.co/npm/ink-docstrap.png?downloads=true)](https://www.npmjs.com/package/ink-docstrap)
+[![NPM](https://nodei.co/npm/ink-docstrap.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ink-docstrap)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-ink-docstrap/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-ink-docstrap_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-ink-docstrap/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-ink-docstrap/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-ink-docstrap/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-ink-docstrap/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-ink-docstrap/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-ink-docstrap/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "Terry Weiss",
-        "email": "me@terryweiss.net"
+        "name": "Terry Weiss"
     },
     "bugs": {
         "url": "https://github.com/docstrap/docstrap/issues"
@@ -60,17 +64,14 @@
     "main": "./template/publish.js",
     "maintainers": [
         {
-            "name": "agatronic",
-            "email": "luke.a.page@gmail.com"
+            "name": "agatronic"
         },
         {
-            "name": "terryweiss",
-            "email": "me@terryweiss.net"
+            "name": "terryweiss"
         }
     ],
     "name": "ink-docstrap",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/docstrap/docstrap.git"
@@ -79,16 +80,6 @@
     "version": "1.3.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module ink-docstrap](#apidoc.module.ink-docstrap)
-
-
-
-# <a name="apidoc.module.ink-docstrap"></a>[module ink-docstrap](#apidoc.module.ink-docstrap)
 
 
 
